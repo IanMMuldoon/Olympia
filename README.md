@@ -6,48 +6,15 @@ We propose to develop an app that will not only provide users with an elegant so
 
 Language: Java
 GUI: Andriod Studio
-Database: SQL lite
+Database: FireBase
 Type: Mobile App
 
 This app will include:
   * Calorie Counter
   * Workout Routines
   * Recording Workouts
-  * Muscle Recovery Time
-  * Reservation System
-  * Leaderboards
-  * Image Board
   * Workout Tutorials
   * Data Visualization
   * User database login system
 
-This is a test for Jira integration with Github
 
-
-
-Colin's test issue for Jira integration with GitHub 
-
-
-Colin's test issue for Jira integration with GitHub
-
-
-Chad's test issue for Jira integration with GitHub
-
-
-
-
-Colin's test issue for Jira integration with GitHub 
-
-
-
-Eric's test issue for Jira integration with GitHub 
-
-
-THIS IS A TEST FOR PAWLO 
-
-
-
-
-Colin's test issue for Jira integration with GitHub 
-
-maham test
